@@ -24,4 +24,4 @@ const makeCommit = (n) => {
     })
 }
 
-makeCommit(60)
+makeCommit(50)
